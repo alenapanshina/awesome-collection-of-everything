@@ -6,16 +6,20 @@ A simple system for tracking goals with AI assistance. Works with Claude, ChatGP
 
 ### For Claude Projects
 1. Create a new Project
-2. Paste `CLAUDE.md` into Project Instructions
+2. Paste `Memory.md` into Project Instructions
 3. Upload the folders to Project Knowledge
 
 ### For ChatGPT
 1. Go to Custom Instructions or create a GPT
-2. Paste `CLAUDE.md` as the system prompt
+2. Paste `Memory.md` as the system prompt
 
-### For Cursor
-1. Open this folder in Cursor
+### For Cursor or VS Code
+1. Open this folder in your editor
 2. Start chatting about your goals
+
+### For Other AI Tools
+1. Copy the contents of `Memory.md` into your AI's system prompt
+2. Upload or reference the goal folders
 
 ## How It Works
 
@@ -31,7 +35,7 @@ Organize your goals into 3 types:
 
 ```
 ai-goal-tracker-free/
-├── CLAUDE.md              # AI system prompt
+├── Memory.md              # AI system prompt
 ├── Pillars/
 │   ├── README.md
 │   └── _template.md
@@ -54,4 +58,4 @@ The free version gives you the structure. **The Pro version adds the methodology
 - **Ready-to-use prompts** — Copy-paste for common situations
 - **Full research** — 400+ lines of evidence-based methodology
 
-**[Get Pro Version →](YOUR_GUMROAD_LINK)**
+**[Get Pro Version →](https://3962046998136.gumroad.com/l/ifohfz)**
